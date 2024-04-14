@@ -8,7 +8,7 @@ layout: base
 </div>
 
 <div class="md:w-4/5 mx-auto gap-4 md:gap-6 columns-2 md:columns-3 mb-10">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:6 %}
   <div class="md:fadeIn border-b pb-8 mb-8 break-inside-avoid-column ">
     <div class="hover:underline hover:decoration-2 hover:underline-offset-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-104 duration-300">
       <a href="{{ post.url }}" >
