@@ -1,7 +1,7 @@
 domain: inq28.paintsplastic.com
 url: https://inq28.paintsplastic.com
 
-title: ==][==
+title:    ==][==
 author: PaintsPlastic
 
 lang: en
@@ -9,7 +9,7 @@ lang: en
 plugins:
   - jekyll-seo-tag
 
-color: "#13ccf9" 
+color: "#000000" 
 
 # disqus:
 #   shortname: example-com
