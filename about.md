@@ -1,17 +1,16 @@
 ---
-title: about
+title: links
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[inq28 on Reddit](https://www.reddit.com/r/Inq28/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[More Reddit](https://www.reddit.com/r/Inq28/comments/13df4xg/comment/jjktykv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Ex Profundis](https://www.exprofundis.com/what-is-inq28/)
+
+[28-mag](https://28-mag.com/)
+
+[Chaos Bunker.de](https://www.chaosbunker.de/en/2018/12/02/inq28-an-introduction/)
 
 
-[jekyll-organization]: https://github.com/jekyll
