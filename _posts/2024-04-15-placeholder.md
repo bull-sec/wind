@@ -6,7 +6,7 @@ tags: ["Nurgle"]
 author: PaintsPlastic
 comments: false
 published: true
-date: 2024-04-15 14:30:00 +0000
+date: 2024-04-14 14:30:00 +0000
 ---
 
 *++ BEGIN DECRYPTION : LEVEL - EPSILON OMEGA ++*
